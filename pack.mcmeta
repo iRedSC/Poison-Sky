@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 6,
-        "description": "A blank datapack."
+        "description": "A Datapack that will poison the player if they are not standing under a block."
     }
 }
