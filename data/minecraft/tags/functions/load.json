@@ -3,7 +3,8 @@
    [
 
 
-     "global:__init__"
+     "psky:loop",
+     "psky:init"
 
 
    ]
